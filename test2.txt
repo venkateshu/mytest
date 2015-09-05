@@ -1,0 +1,11 @@
+hi sir 
+I successfully push the files to github.
+
+now will do more assignments on git
+
+echo this is %TIME%
+
+pause
+
+echo this is %DATE%
+this practice session
