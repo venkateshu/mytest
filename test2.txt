@@ -4,3 +4,5 @@ now will do more assignments on git
 echo this is %TIME%
 pause
 echo this is %DATE%
+Fixing the War with Git for Merge and Remote push issues
+Would be successful now
